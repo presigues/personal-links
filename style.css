@@ -19,7 +19,7 @@ body{
 
 .back{
     width: 500px;
-    height: 600px;
+    height: 500px;
     background: transparent;
     backdrop-filter: blur(20px);
     border: 2px solid white;
@@ -46,8 +46,99 @@ body{
     width: 400px;
     height: 40px;
     font-family: pixel;
+    font-size: 20px;
     position: fixed;
     top: 100px;
     left: 50px;
+    transition-duration: 0.4s;
 
+}
+
+.github:hover{
+    background-color: white;
+    color: #2f00ff;
+}
+
+.insta{
+    background: transparent;
+    color: white;
+    border: 2px solid white;
+    border-radius: 30px;
+    width: 400px;
+    height: 40px;
+    font-family: pixel;
+    font-size: 20px;
+    position: fixed;
+    top: 180px;
+    left: 50px;
+    transition-duration: 0.4s;
+
+}
+
+.insta:hover{
+    background-color: white;
+    color: #2f00ff;
+}
+
+.tube{
+    background: transparent;
+    color: white;
+    border: 2px solid white;
+    border-radius: 30px;
+    width: 400px;
+    height: 40px;
+    font-family: pixel;
+    font-size: 20px;
+    position: fixed;
+    top: 260px;
+    left: 50px;
+    transition-duration: 0.4s;
+
+}
+
+.tube:hover{
+    background-color: white;
+    color: #2f00ff;
+}
+
+.web{
+    background: transparent;
+    color: white;
+    border: 2px solid white;
+    border-radius: 30px;
+    width: 400px;
+    height: 40px;
+    font-family: pixel;
+    font-size: 20px;
+    position: fixed;
+    top: 340px;
+    left: 50px;
+    transition-duration: 0.4s;
+
+}
+
+.web:hover{
+    background-color: white;
+    color: #2f00ff;
+}
+
+.discord{
+    background: transparent;
+    color: white;
+    border: 2px solid white;
+    border-radius: 30px;
+    width: 400px;
+    height: 40px;
+    font-family: pixel;
+    font-size: 20px;
+    position: fixed;
+    top: 420px;
+    left: 50px;
+    transition-duration: 0.4s;
+
+}
+
+.discord:hover{
+    background-color: white;
+    color: #2f00ff;
 }
