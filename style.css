@@ -1,3 +1,5 @@
+@font-face { font-family: pixel; src: url("Azonix.ttf"); }
+
 body{
     display: flex;
     background-color: white;
@@ -13,4 +15,39 @@ body{
     100% {
         background-position: right;
     }
+}
+
+.back{
+    width: 500px;
+    height: 600px;
+    background: transparent;
+    backdrop-filter: blur(20px);
+    border: 2px solid white;
+    border-radius: 30px;
+    position: fixed;
+    left: 700px;
+    top: 200px;
+}
+
+.title{
+    font-family: pixel;
+    color: white;
+    font-size: 25px;
+    position: fixed;
+    left: 115px;
+    top: 40px;
+}
+
+.github{
+    background: transparent;
+    color: white;
+    border: 2px solid white;
+    border-radius: 30px;
+    width: 400px;
+    height: 40px;
+    font-family: pixel;
+    position: fixed;
+    top: 100px;
+    left: 50px;
+
 }
