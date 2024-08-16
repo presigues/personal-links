@@ -9,3 +9,11 @@ you can click each link and it will send you to the personal link said on said b
 use this to check out my socials and other stuff, where i can link the website on my bio for said socials.
 
 hope its cool checking out this site and my socials!
+
+**self hosting instructions**
+
+1 download all files
+
+2 create a project file, call it whatever you want, and add all files to it
+
+3 use live server on vs code, click go live while viewing the html file
