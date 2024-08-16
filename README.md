@@ -2,6 +2,8 @@
 
 check out the updated version here : https://66be3de5a07baf065fff7882--transcendent-druid-4b9623.netlify.app
 
+https://github.com/user-attachments/assets/570d9529-324b-45f1-ac3a-9a6d1a952254
+
 i wanted to create a linktree or flowcode style link website that looked cool and gave me (much) more customization
 
 you can click each link and it will send you to the personal link said on said button
